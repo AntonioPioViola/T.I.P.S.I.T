@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1616349005 source:c:\users\anton\desktop\code-bloxks\tipsit\rubrica_telefonica_viola\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+
