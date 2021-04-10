@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Frame
+comment1.params=nome\ x\ y\ larghezza\ altezza
+comment1.target=Frame(java.lang.String,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=javax.swing.JFrame\ getJFrame()
+numComments=3
